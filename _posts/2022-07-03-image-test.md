@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Testing Image Insert
+categories: maltese
 ---
 
 # Test
