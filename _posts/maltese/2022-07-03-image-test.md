@@ -4,6 +4,9 @@ title: Testing Image Insert
 categories: maltese
 tags: [coding, image, python]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # Test
