@@ -10,6 +10,22 @@ sidebar:
 search: true
 ---
 
+**[공지사항 test]** [제 깃허브 주소 안내입니다.](https://github.com/nsunwoo)
+{: .notice--danger}
+
+<div class="notice--success">
+<h1>공지사항 test입니다.</h1>
+<ul>
+    <li>공지사항 1</li>
+    <li>공지사항 2</li>
+    <li>공지사항 3</li>
+</ul>
+</div>
+
+[버튼 test(Google)](https://www.google.com/){: .btn .btn--danger}
+
+{% include video id="lF2OjQbzdHI" provider="youtube" %}
+
 # Test
 
 화난 말티즈
